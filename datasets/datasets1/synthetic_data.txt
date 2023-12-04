@@ -1,14 +1,14 @@
 Synthetic data has been designed as one segmentation and sample file.
 You should unzip the dataset files to your working directory before using them.
-You may choose either data_set_1_1.zip or data_set_1_2.zip dataset to test the toolbox PySAAT with the synthetic data.
+You may choose either data_set_1_1.zip or data_set_1_2.zip dataset to test the toolbox PySAAT with synthetic data.
 
 data_set_1_1.zip (need import):
   data_set_1_1.zip contains related shapefiles for synthetic data.
   The dataset includes files as follows:
     samples.shp, samples.dbf, samples.sbx, samples.shx 
     segmentation_1.shp, segmentation_1.dbf, segmentation_1.sbx, segmentation_1.shx 
-  Please do not forget to define the directory having datasets in the first tab of the toolbox.
-  Then apply the second tab for import. Only once import will be enough. 
+  Please do not forget to define the directory path having datasets in the first tab of the toolbox.
+  Then apply the second tab for import. Only once import will be enough.
   
 
 data_set_1_2.zip (no need import):
@@ -17,5 +17,6 @@ data_set_1_2.zip (no need import):
     sample.pkl, samples.pdf 
     segmentation1/
       intersect.pkl, segment.pkl, process_time.txt 
-  This data should be processed directly without import in the third tab. Please do not forget to define the directory having datasets in the first tab of the toolbox. 
-Then skip to the third tab for the accuracy analysis.
+  This data should be processed directly in the third tab without import. 
+  Please do not forget to define the directory path having datasets in the first tab of the toolbox. 
+  Then skip to the third tab for the accuracy analysis.
