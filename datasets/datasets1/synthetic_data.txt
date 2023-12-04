@@ -1,14 +1,14 @@
 Synthetic data has been designed as one segmentation and one sample file.
 
 data_set_1_1.zip:
-  data_set_1_1.zip contains related shapefiles for syntetic data.
+  data_set_1_1.zip contains related shapefiles for synthetic data.
   The dataset includes files as follows:
     samples.shp, samples.dbf, samples.sbx, samples.shx 
     segmentation_1.shp, segmentation_1.dbf, segmentation_1.sbx, segmentation_1.shx 
-  Please do not forget define directory having datasets in the first tab of the toolbox.
-  Then apply the second tab for import. Only once time import will be enough. 
+  Please do not forget to define the directory having datasets in the first tab of the toolbox.
+  Then apply the second tab for import. Only once import will be enough. 
   
 
 data_set_1_2.zip:
-data_set_1_2.zip contains toolbox files already imported for syntetic data.
+data_set_1_2.zip contains toolbox files already imported for synthetic data.
 This should be processed directly without import in the third tab. Please do not forget define directory having datasets in the first tab of the toolbox. Then skip to the third tab for the accuracy analysis.
