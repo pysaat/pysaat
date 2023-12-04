@@ -1,4 +1,4 @@
-Synthetic data has been designed as one segmentation and one sample file.
+Synthetic data has been designed as one segmentation and sample file.
 You should unzip the dataset files to your working directory before using them.
 You may choose either data_set_1_1.zip or data_set_1_2.zip dataset to test the toolbox PySAAT with the synthetic data.
 
