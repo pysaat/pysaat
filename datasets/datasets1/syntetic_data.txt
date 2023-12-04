@@ -1,0 +1,2 @@
+Datasets contains related shapefiles for syntetic data.
+This data must be imported once using the toolbox before it is used.
