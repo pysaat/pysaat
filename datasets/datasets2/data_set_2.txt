@@ -1,9 +1,9 @@
 OBIA segmentation data (data_set_2.zip) has been designed as six segmentations and one sample file.
 data_set_2.zip contains related shapefiles for synthetic data.
 The dataset includes GIS vector files as follows:
-Sample's files: 
+Sample files: 
 samples.shp, samples.dbf, samples.sbx, samples.shx 
-Segmentations' files: 
+Segmentation files: 
 segmentation_1.shp, segmentation_1.dbf, segmentation_1.sbx, segmentation_1.shx
 segmentation_2.shp, segmentation_2.dbf, segmentation_2.sbx, segmentation_2.shx
 segmentation_3.shp, segmentation_3.dbf, segmentation_3.sbx, segmentation_3.shx
