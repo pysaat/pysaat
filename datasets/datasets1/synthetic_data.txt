@@ -1,5 +1,5 @@
 Synthetic data has been designed as one segmentation and one sample files.
-data_set_1_1.zip contains related shapefiles for synthetic data.
+data_set_1.zip contains related shapefiles for synthetic data.
 The dataset includes GIS vector files as follows:
 sample: samples.shp, samples.dbf, samples.sbx, samples.shx 
 segmentation: segmentation_1.shp, segmentation_1.dbf, segmentation_1.sbx, segmentation_1.shx 
