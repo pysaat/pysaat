@@ -1,4 +1,4 @@
-PySAAT: A Python-based GUI Toolbox for Geospatial Segmentation Accuracy
+# PySAAT: A Python-based GUI Toolbox for Geospatial Segmentation Accuracy
 Authors: ...
 
 
