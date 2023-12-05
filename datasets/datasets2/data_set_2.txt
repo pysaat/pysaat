@@ -1,17 +1,17 @@
-OBIA segmentation data (data_set_2.zip) has been designed as six segmentations and one sample file.
-data_set_2.zip contains related shapefiles for synthetic data.
+OBIA segmentation data (datasets2) has been produced using the UAV orthophotos as six segmentations and one sample file.
+dataset2 folder contains related shapefiles for OBIA segmentation data.
 The dataset includes GIS vector files as follows:
 Sample files: 
-samples.shp, samples.dbf, samples.sbx, samples.shx 
+samples.zip (samples.shp, samples.dbf, samples.sbx, samples.shx) 
 Segmentation files: 
-segmentation_1.shp, segmentation_1.dbf, segmentation_1.sbx, segmentation_1.shx
-segmentation_2.shp, segmentation_2.dbf, segmentation_2.sbx, segmentation_2.shx
-segmentation_3.shp, segmentation_3.dbf, segmentation_3.sbx, segmentation_3.shx
-segmentation_4.shp, segmentation_4.dbf, segmentation_4.sbx, segmentation_4.shx
-segmentation_5.shp, segmentation_5.dbf, segmentation_5.sbx, segmentation_5.shx
-segmentation_6.shp, segmentation_6.dbf, segmentation_6.sbx, segmentation_6.shx
+segmentation_1.zip (segmentation_1.shp, segmentation_1.dbf, segmentation_1.sbx, segmentation_1.shx) was created using multi-resolution segmentation wtih scale 100.
+segmentation_2.zip (segmentation_2.shp, segmentation_2.dbf, segmentation_2.sbx, segmentation_2.shx) was created using multi-resolution segmentation wtih scale 200.
+segmentation_3.zip (segmentation_3.shp, segmentation_3.dbf, segmentation_3.sbx, segmentation_3.shx) was created using multi-resolution segmentation wtih scale 300.
+segmentation_4.zip (segmentation_4.shp, segmentation_4.dbf, segmentation_4.sbx, segmentation_4.shx) was created using multi-resolution segmentation wtih scale 400.
+segmentation_5.zip (segmentation_5.shp, segmentation_5.dbf, segmentation_5.sbx, segmentation_5.shx) was created using multi-resolution segmentation wtih scale 500.
+segmentation_6.zip (segmentation_6.shp, segmentation_6.dbf, segmentation_6.sbx, segmentation_6.shx) was created using multi-resolution segmentation wtih scale 600.
 
-You should unzip the data_set_2.zip file to your working directory before using them.
+You should unzip the all zip files to your working directory before using them.
 Please remember to define the directory path with datasets in the toolbox's first tab.
 Then apply the second tab for import. This may take some time. Please note that only one import will be enough. 
 In the third tab, accuracy metrics can be run.
