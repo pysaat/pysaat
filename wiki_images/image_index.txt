@@ -1,3 +1,5 @@
 Figure 1. The structure of geospatial input files
 Figure 2. Directory and file formation produced by the toolbox following an import process
 Figure 3. Directory and file formation produced after a report generation
+Figure 4. The content of the WD for Datasets 1
+Figure 5. The content of the WD for Datasets 2
