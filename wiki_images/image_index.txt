@@ -1,0 +1,3 @@
+Figure 1. The structure of geospatial input files
+Figure 2. Directory and file formation produced by the toolbox following an import process
+Figure 3. Directory and file formation produced after a report generation
